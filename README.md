@@ -52,9 +52,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamkhanhminhman97&show_icons=true&theme=tokyonight&hide_border=true" alt="phamkhanhminhman97's GitHub Stats">
   <img src="https://streak-stats.demolab.com?user=phamkhanhminhman97&theme=tokyonight&hide_border=true" alt="phamkhanhminhman97's GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamkhanhminhman97&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" alt="phamkhanhminhman97's Top Languages">
 </p>
 
 ---
