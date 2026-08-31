@@ -23,7 +23,7 @@ pkmm-online.phamkhanhminhman97.workers.dev"><img src="https://img.shields.io/bad
 - 🌱 I'm interested in **open-source projects**
 - 🔭 Currently building **TypeScript API clients** for marketplace platforms
 - 📫 Reach me at **[phamkhanhminhman97@gmail.com](mailto:phamkhanhminhman97@gmail.com)**
-- 📌 Visit my **[My website](https://pkmm.online)**
+- 📌 Visit my **[My website](https://phamkhanhminhman.com)**
 
 ## Featured Projects
 
@@ -60,7 +60,7 @@ pkmm-online.phamkhanhminhman97.workers.dev"><img src="https://img.shields.io/bad
 
 ## Connect
 
-- Website: **[My website](https://pkmm-online.phamkhanhminhman97.workers.dev)**
+- Website: **[My website](https://phamkhanhminhman.com)**
 - Email: phamkhanhminhman97@gmail.com
 - GitHub: https://github.com/phamkhanhminhman97
 - npm: https://www.npmjs.com/~phamminhman10
